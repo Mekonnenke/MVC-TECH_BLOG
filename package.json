@@ -1,0 +1,40 @@
+{
+  "name": "mvc-tech_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mekonnenke/MVC-TECH_BLOG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mekonnenke/MVC-TECH_BLOG/issues"
+  },
+  "homepage": "https://github.com/Mekonnenke/MVC-TECH_BLOG#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.2",
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "express-session": "^1.17.2",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "router": "^1.3.6",
+    "routes-router": "^4.3.1",
+    "seed": "^0.4.4",
+    "sequelize": "^6.15.0",
+    "test": "^0.6.0",
+    "util": "^0.12.4",
+    "utils": "^0.3.1"
+  }
+}
