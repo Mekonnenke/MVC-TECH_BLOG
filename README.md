@@ -25,6 +25,7 @@ The packages required to run are:
 
 ### Links
 git hub link: https://github.com/Mekonnenke/MVC-TECH_BLOG
+
 heroku link: https://pure-cliffs-54858.herokuapp.com/
 
 
