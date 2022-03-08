@@ -23,9 +23,9 @@ The packages required to run are:
 
 -mysql2
 
-
-git hub link:
-web link:
+### Links
+git hub link: https://github.com/Mekonnenke/MVC-TECH_BLOG
+heroku link: https://pure-cliffs-54858.herokuapp.com/
 
 
 example image 
