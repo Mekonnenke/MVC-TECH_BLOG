@@ -23,6 +23,8 @@ The packages required to run are:
 
 -mysql2
 
+-sequelize
+
 ### Links
 git hub link: https://github.com/Mekonnenke/MVC-TECH_BLOG
 
@@ -31,5 +33,5 @@ heroku link: https://pure-cliffs-54858.herokuapp.com/
 
 example image 
 
--sequelize
+
 ![Screenshot 2022-03-08 000454](https://user-images.githubusercontent.com/90818220/157170658-dfd1e8e3-d234-4e16-bf32-12f2ebbebd40.jpg)
